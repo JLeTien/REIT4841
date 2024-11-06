@@ -8,6 +8,9 @@ Open the Python Notebook file in PythonJypter
 
 # Project Structure
 **Data Preprocessing**: This section covers data cleansing, resizing, and augmentation techniques.
+
 **Model Architecture**: A CNN model is created using Keras.
+
 **Training**: Dataset used for training including details on batch size, learning rate, and epochs.
+
 **Evaluation**: The model’s performance is assessed using accuracy, precision, recall, and F1 score. Confusion matrices and visualizations of model predictions are also included.
