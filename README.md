@@ -14,3 +14,7 @@ Open the Python Notebook file in PythonJypter
 **Training**: Dataset used for training including details on batch size, learning rate, and epochs.
 
 **Evaluation**: The model’s performance is assessed using accuracy, precision, recall, and F1 score. Confusion matrices and visualizations of model predictions are also included.
+
+# Results and Findings
+
+The notebook provides insights into model accuracy and its suitability for skin disease detection.
