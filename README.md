@@ -2,5 +2,5 @@
 
 Open the Python Notebook file in PythonJypter
 
-The Pilot Study is a sample CNN model that uses a smaller dataset to train
-The Principal Study trains the model with over 27,000 images of skin diseases
+**Pilot Study**: A smaller, sample dataset is used to test and train a prototype CNN model.
+**Principal Study**: Using a comprehensive dataset with over 27,000 images of various skin conditions, the model is trained for enhanced accuracy and generalisation.
